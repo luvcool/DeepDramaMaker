@@ -1,0 +1,4 @@
+interface:
+  display_name: "드라마 자산 요구사항 추출기"
+  short_description: "대본에서 배우·목소리·장소·의상·차량·소품 요구사항과 상태를 추출합니다."
+  default_prompt: "Use $drama-asset-requirement-extractor to extract normalized production asset requirements from the approved script."

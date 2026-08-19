@@ -1,0 +1,4 @@
+interface:
+  display_name: "드라마 쇼러너"
+  short_description: "드라마 기획부터 최종 납품까지 전체 제작 공정을 지휘합니다."
+  default_prompt: "Use $drama-showrunner to start or continue this drama production project."

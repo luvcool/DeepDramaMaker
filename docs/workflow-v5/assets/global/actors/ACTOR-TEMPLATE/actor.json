@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.1",
+  "actor_id": "ACTOR-XXX",
+  "status": "needs_identity_build",
+  "source_type": "user_reference|generated|licensed",
+  "identity": {
+    "face_reference_status": "pending",
+    "body_reference_status": "pending",
+    "base_hair": "UNSPECIFIED"
+  },
+  "reference_images": {
+    "originals": [],
+    "approved_front": null,
+    "approved_left45": null,
+    "approved_right45": null,
+    "approved_profile": null,
+    "approved_fullbody": null,
+    "approved_views": {}
+  },
+  "expression_refs": {},
+  "notes": "작품 독립 정보만 기록. 배역명·작품 의상·상처 상태 금지.",
+  "asset_version": 1,
+  "required_master_views": [
+    "FACE_FRONT",
+    "FACE_LEFT45",
+    "FACE_RIGHT45",
+    "FACE_LEFT_PROFILE",
+    "FACE_RIGHT_PROFILE",
+    "UPPERBODY_FRONT",
+    "FULLBODY_FRONT",
+    "FULLBODY_SIDE",
+    "FULLBODY_BACK"
+  ],
+  "locked_attributes": [
+    "face_identity",
+    "facial_proportions",
+    "base_hair",
+    "body_proportions"
+  ],
+  "variable_attributes": [
+    "expression",
+    "pose"
+  ]
+}

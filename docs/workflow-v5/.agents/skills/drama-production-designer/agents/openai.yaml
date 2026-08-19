@@ -1,0 +1,4 @@
+interface:
+  display_name: "드라마 프로덕션 디자이너"
+  short_description: "대본에서 로케이션·의상·소품·색채를 텍스트 제작 명세로 추출합니다."
+  default_prompt: "Use $drama-production-designer to create text production-design specifications from the script."

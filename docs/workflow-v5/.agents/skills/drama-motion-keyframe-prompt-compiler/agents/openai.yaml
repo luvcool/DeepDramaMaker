@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drama Motion Keyframe Prompt Compiler"
+  short_description: "Compile validated motion states into stable Start/End image prompt pairs"
+  default_prompt: "Use $drama-motion-keyframe-prompt-compiler to convert validated motion plans into Start/End motion keyframe image prompts without generating H3 video prompts."

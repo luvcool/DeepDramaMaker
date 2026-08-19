@@ -1,0 +1,6 @@
+{
+  "schema_version": "1.0",
+  "project": "discarded-us",
+  "states": [],
+  "note": "기존 props/costumes의 상태 연속성 문장을 후속 Extractor 재실행 시 씬 단위로 정규화할 것."
+}

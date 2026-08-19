@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "드라마 비주얼 프롬프트 검수관"
+  short_description: "이미지 프롬프트의 대본 충실도와 시각 연속성을 검증합니다."
+  default_prompt: "Use $drama-visual-prompt-auditor to audit visual prompts before production handoff."

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "project": "discarded-us",
+  "relationships": [
+    {
+      "subject": "CHAR-SEOHA",
+      "relation": "portrayed_by",
+      "object": "UNASSIGNED"
+    },
+    {
+      "subject": "CHAR-SEOHA",
+      "relation": "voiced_by",
+      "object": "UNASSIGNED"
+    },
+    {
+      "subject": "CHAR-DOYUN",
+      "relation": "portrayed_by",
+      "object": "UNASSIGNED"
+    },
+    {
+      "subject": "CHAR-DOYUN",
+      "relation": "voiced_by",
+      "object": "UNASSIGNED"
+    },
+    {
+      "subject": "CHAR-HYUNSUK",
+      "relation": "portrayed_by",
+      "object": "UNASSIGNED"
+    },
+    {
+      "subject": "CHAR-HYUNSUK",
+      "relation": "voiced_by",
+      "object": "UNASSIGNED"
+    },
+    {
+      "subject": "CHAR-MINJU",
+      "relation": "portrayed_by",
+      "object": "UNASSIGNED"
+    },
+    {
+      "subject": "CHAR-MINJU",
+      "relation": "voiced_by",
+      "object": "UNASSIGNED"
+    }
+  ]
+}

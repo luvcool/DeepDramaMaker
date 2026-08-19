@@ -1,0 +1,3 @@
+interface:
+  display_name: "Drama Asset Image Prompt Compiler"
+  short_description: "자산 기준 이미지용 프롬프트를 구조화합니다."

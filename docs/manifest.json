@@ -1,0 +1,21 @@
+{
+  "package": "DramaStudioStarter",
+  "version": "0.4.0",
+  "workflow": {
+    "name": "drama-studio-workflow-v5-motion-keyframes",
+    "root": "docs/workflow-v5",
+    "original_package": "docs/packages/drama-studio-workflow-v5-motion-keyframes.zip"
+  },
+  "architecture": {
+    "docx": "docs/architecture/DramaStudio_System_Architecture_Execution_Spec_v0.1.docx",
+    "markdown": "docs/architecture/DramaStudio_System_Architecture_Execution_Spec_v0.1.md"
+  },
+  "integration": "docs/WORKFLOW_INTEGRATION.md",
+  "features": [
+    "production-designer",
+    "asset-image-prompt-compiler",
+    "production-workspace",
+    "design-approval",
+    "prompt-approval"
+  ]
+}

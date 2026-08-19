@@ -1,0 +1,4 @@
+interface:
+  display_name: "드라마 스토리 아키텍트"
+  short_description: "세계관·연표·시즌 구조와 회차별 비트시트를 설계합니다."
+  default_prompt: "Use $drama-story-architect to design the world and episode structure for this drama."

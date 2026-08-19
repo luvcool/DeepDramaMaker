@@ -1,0 +1,4 @@
+interface:
+  display_name: "드라마 훅 심리 테크니션"
+  short_description: "정보 격차·미완결 긴장·예측 오류로 몰입과 클리프행어를 설계합니다."
+  default_prompt: "Use $drama-hook-psychologist to diagnose weak engagement and design stronger hooks."

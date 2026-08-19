@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "project": "discarded-us",
+  "characters": {
+    "CHAR-SEOHA": {
+      "actor_ref": "UNASSIGNED",
+      "voice_ref": "UNASSIGNED",
+      "status": "pending_identity_assets",
+      "project_overrides": {}
+    },
+    "CHAR-DOYUN": {
+      "actor_ref": "UNASSIGNED",
+      "voice_ref": "UNASSIGNED",
+      "status": "pending_identity_assets",
+      "project_overrides": {}
+    },
+    "CHAR-HYUNSUK": {
+      "actor_ref": "UNASSIGNED",
+      "voice_ref": "UNASSIGNED",
+      "status": "pending_identity_assets",
+      "project_overrides": {}
+    },
+    "CHAR-MINJU": {
+      "actor_ref": "UNASSIGNED",
+      "voice_ref": "UNASSIGNED",
+      "status": "pending_identity_assets",
+      "project_overrides": {}
+    }
+  }
+}

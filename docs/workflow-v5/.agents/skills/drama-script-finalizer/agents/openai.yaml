@@ -1,0 +1,4 @@
+interface:
+  display_name: "드라마 대본 파이널라이저"
+  short_description: "대본·제작 문서·비주얼 프롬프트를 검증해 납품본으로 통합합니다."
+  default_prompt: "Use $drama-script-finalizer to validate and package the scripts, production documents, and audited visual prompts."

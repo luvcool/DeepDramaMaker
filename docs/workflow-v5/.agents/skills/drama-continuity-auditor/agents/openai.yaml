@@ -1,0 +1,4 @@
+interface:
+  display_name: "드라마 컨티뉴이티 검증관"
+  short_description: "설정·시간선·정보 흐름·인과·복선 오류를 검수하고 교정안을 제시합니다."
+  default_prompt: "Use $drama-continuity-auditor to audit this script for continuity and causal defects."

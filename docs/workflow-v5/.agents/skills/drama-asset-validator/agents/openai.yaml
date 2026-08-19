@@ -1,0 +1,4 @@
+interface:
+  display_name: "드라마 자산 검수관"
+  short_description: "배우·목소리·프로젝트 자산·상태 자산의 준비도와 연속성을 검증합니다."
+  default_prompt: "Use $drama-asset-validator to verify that required assets are mapped and ready before visual prompt production."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "드라마 시나리오 작가"
+  short_description: "확정된 바이블과 구조를 기반으로 회차별 전체 대본을 집필합니다."
+  default_prompt: "Use $drama-screenwriter to write the requested episode or scene from the approved bible."

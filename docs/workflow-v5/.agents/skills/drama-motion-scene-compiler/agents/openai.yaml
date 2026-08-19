@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drama Motion Scene Compiler"
+  short_description: "Compile scenes into physically simple, motion-dense video shots."
+  default_prompt: "Use $drama-motion-scene-compiler to split the approved drama scenes into motion-dense, physically explicit shot plans without writing the final H3 prompt."

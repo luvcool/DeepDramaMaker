@@ -1,0 +1,867 @@
+{
+  "schema_version": "1.0",
+  "project": "discarded-us",
+  "note": "기존 제작 결과를 새 자산 계층에 마이그레이션한 초안. 배우/목소리 실제 승인 자산은 아직 제공되지 않아 UNASSIGNED.",
+  "assets": [
+    {
+      "asset_id": "CHAR-SEOHA",
+      "type": "character",
+      "name": "한서하",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "critical",
+      "priority": "P0",
+      "source_refs": [
+        "00_bible/characters.md",
+        "06_cast/cast-identity.md"
+      ],
+      "actor_ref": "UNASSIGNED",
+      "voice_ref": "UNASSIGNED",
+      "visual_identity_required": true,
+      "voice_identity_required": true,
+      "performance_profile_required": true,
+      "known_attributes": {},
+      "missing_attributes": [
+        "approved_actor_reference",
+        "approved_voice_reference"
+      ]
+    },
+    {
+      "asset_id": "CHAR-DOYUN",
+      "type": "character",
+      "name": "이도윤",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "critical",
+      "priority": "P0",
+      "source_refs": [
+        "00_bible/characters.md",
+        "06_cast/cast-identity.md"
+      ],
+      "actor_ref": "UNASSIGNED",
+      "voice_ref": "UNASSIGNED",
+      "visual_identity_required": true,
+      "voice_identity_required": true,
+      "performance_profile_required": true,
+      "known_attributes": {},
+      "missing_attributes": [
+        "approved_actor_reference",
+        "approved_voice_reference"
+      ]
+    },
+    {
+      "asset_id": "CHAR-HYUNSUK",
+      "type": "character",
+      "name": "장현숙",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P0",
+      "source_refs": [
+        "00_bible/characters.md",
+        "06_cast/cast-identity.md"
+      ],
+      "actor_ref": "UNASSIGNED",
+      "voice_ref": "UNASSIGNED",
+      "visual_identity_required": true,
+      "voice_identity_required": true,
+      "performance_profile_required": true,
+      "known_attributes": {},
+      "missing_attributes": [
+        "approved_actor_reference",
+        "approved_voice_reference"
+      ]
+    },
+    {
+      "asset_id": "CHAR-MINJU",
+      "type": "character",
+      "name": "오민주",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P0",
+      "source_refs": [
+        "00_bible/characters.md",
+        "06_cast/cast-identity.md"
+      ],
+      "actor_ref": "UNASSIGNED",
+      "voice_ref": "UNASSIGNED",
+      "visual_identity_required": true,
+      "voice_identity_required": true,
+      "performance_profile_required": true,
+      "known_attributes": {},
+      "missing_attributes": [
+        "approved_actor_reference",
+        "approved_voice_reference"
+      ]
+    },
+    {
+      "asset_id": "LOC-01",
+      "legacy_id": "L-01",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-01A",
+      "legacy_id": "L-01A",
+      "type": "zone",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-01B",
+      "legacy_id": "L-01B",
+      "type": "zone",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-01C",
+      "legacy_id": "L-01C",
+      "type": "zone",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-02",
+      "legacy_id": "L-02",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-03",
+      "legacy_id": "L-03",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-03N",
+      "legacy_id": "L-03N",
+      "type": "zone",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-03R",
+      "legacy_id": "L-03R",
+      "type": "zone",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-04",
+      "legacy_id": "L-04",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-05",
+      "legacy_id": "L-05",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-06",
+      "legacy_id": "L-06",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-07",
+      "legacy_id": "L-07",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-08",
+      "legacy_id": "L-08",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-09",
+      "legacy_id": "L-09",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-10",
+      "legacy_id": "L-10",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-11",
+      "legacy_id": "L-11",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-12",
+      "legacy_id": "L-12",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-13",
+      "legacy_id": "L-13",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-14",
+      "legacy_id": "L-14",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-15",
+      "legacy_id": "L-15",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-16",
+      "legacy_id": "L-16",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-17",
+      "legacy_id": "L-17",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "LOC-18",
+      "legacy_id": "L-18",
+      "type": "location",
+      "name": "see 05_design/locations.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/locations.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "WARD-DY-01",
+      "type": "wardrobe",
+      "name": "see 05_design/costumes.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/costumes.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "WARD-DY-02",
+      "type": "wardrobe",
+      "name": "see 05_design/costumes.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/costumes.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "WARD-DY-03",
+      "type": "wardrobe",
+      "name": "see 05_design/costumes.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/costumes.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "WARD-DY-04",
+      "type": "wardrobe",
+      "name": "see 05_design/costumes.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/costumes.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "WARD-HS-01",
+      "type": "wardrobe",
+      "name": "see 05_design/costumes.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/costumes.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "WARD-MJ-01",
+      "type": "wardrobe",
+      "name": "see 05_design/costumes.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/costumes.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "WARD-PAST-DY",
+      "type": "wardrobe",
+      "name": "see 05_design/costumes.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/costumes.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "WARD-PAST-SH",
+      "type": "wardrobe",
+      "name": "see 05_design/costumes.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/costumes.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "WARD-SH-01",
+      "type": "wardrobe",
+      "name": "see 05_design/costumes.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/costumes.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "WARD-SH-02",
+      "type": "wardrobe",
+      "name": "see 05_design/costumes.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/costumes.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "WARD-SH-03",
+      "type": "wardrobe",
+      "name": "see 05_design/costumes.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/costumes.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "WARD-SH-04",
+      "type": "wardrobe",
+      "name": "see 05_design/costumes.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/costumes.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-01",
+      "legacy_id": "P-01",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-02",
+      "legacy_id": "P-02",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-03",
+      "legacy_id": "P-03",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-04",
+      "legacy_id": "P-04",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-05",
+      "legacy_id": "P-05",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-06",
+      "legacy_id": "P-06",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-07",
+      "legacy_id": "P-07",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-08",
+      "legacy_id": "P-08",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-09",
+      "legacy_id": "P-09",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-10",
+      "legacy_id": "P-10",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-11",
+      "legacy_id": "P-11",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-12",
+      "legacy_id": "P-12",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-13",
+      "legacy_id": "P-13",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-14",
+      "legacy_id": "P-14",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-15",
+      "legacy_id": "P-15",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-16",
+      "legacy_id": "P-16",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    },
+    {
+      "asset_id": "PROP-17",
+      "legacy_id": "P-17",
+      "type": "prop",
+      "name": "see 05_design/props.md",
+      "scope": "project_dedicated",
+      "persistence": "persistent",
+      "importance": "high",
+      "priority": "P1",
+      "source_refs": [
+        "05_design/props.md"
+      ],
+      "known_attributes": {},
+      "missing_attributes": []
+    }
+  ]
+}

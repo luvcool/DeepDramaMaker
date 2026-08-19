@@ -1,0 +1,24 @@
+{
+  "schema_version": "1.0",
+  "voice_id": "VOICE-XXX",
+  "status": "needs_voice_build",
+  "source_type": "user_reference|generated|licensed",
+  "reference_audio": {
+    "originals": [],
+    "approved_neutral": null,
+    "approved_emotional": null,
+    "approved_whisper": null
+  },
+  "voice_profile": {
+    "range": "UNSPECIFIED",
+    "texture": "UNSPECIFIED",
+    "baseline_rate": "UNSPECIFIED",
+    "accent": "UNSPECIFIED"
+  },
+  "tts_adapter": {
+    "engine": "UNSPECIFIED",
+    "speaker_id": "UNSPECIFIED",
+    "embedding_path": null
+  },
+  "notes": "작품별 말투·감정 연출은 CHAR project_overrides에 기록."
+}

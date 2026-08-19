@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drama Motion Validator"
+  short_description: "Validate physical states, motion density, cuts, and continuity before video prompting."
+  default_prompt: "Use $drama-motion-validator to audit the motion plan before any H3 prompt is written."

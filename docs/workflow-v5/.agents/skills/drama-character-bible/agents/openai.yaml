@@ -1,0 +1,4 @@
+interface:
+  display_name: "드라마 캐릭터 바이블"
+  short_description: "인물의 결핍·방어기제·관계·말투와 변화 아크를 설계합니다."
+  default_prompt: "Use $drama-character-bible to build psychologically coherent characters for this drama."

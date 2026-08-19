@@ -1,0 +1,17 @@
+{
+  "MIR_STUDIO": {
+    "id": "MIR_STUDIO",
+    "display_name": "Mir Studio MCP",
+    "enabled": false,
+    "transport": "stdio",
+    "command": "python",
+    "args": [
+      "D:/Windy/mcp/mir-studio-mcp/server.py"
+    ],
+    "env": {},
+    "working_directory": "",
+    "timeout_seconds": 3600,
+    "serialize_calls": true,
+    "notes": "generate_video/image should run sequentially; paths are relative to the MCP server machine."
+  }
+}
